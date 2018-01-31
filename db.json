@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Luke Skywalker",
+      "avatar": "https://www.vappingo.com/word-blog/wp-content/uploads/2011/05/Luke.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Darth Vader",
+      "avatar": "http://www.avatarys.com/var/resizes/Cool-Avatars/Twitter-Avatars/xStar-Wars-Darth-Vader_by_avatarys-300x300-twitter-avatar.png,qm=1443299790.pagespeed.ic.A6WyvoW2h7.webp"
+    },
+    {
+      "id": 3,
+      "name": "Obi Wan Kenobi",
+      "avatar": "http://pm1.narvii.com/6567/8ca85848b3c6c79784eee1ce5bfff220fdd14593_hq.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Leia Organa",
+      "avatar": "http://media.comicbook.com/wp-content/uploads/2012/11/princess-leia.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Han Solo",
+      "avatar": "http://comic-cons.xyz/wp-content/uploads/Star-Wars-avatars-Movie-Han-Solo-Harrison-Ford.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Darth Maul",
+      "avatar": "https://avatarfiles.alphacoders.com/736/73638.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Yoda",
+      "avatar": "https://avatarchamber.com/t/0/31/avatar-jedi-movie-and-yoda-84Q.jpg"
+    }
+  ]
+}
