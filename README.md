@@ -6,7 +6,7 @@ I showed this example @ Frontend Dev Guayaquil Meetup in Guayaquil, Ecuador.
 There are three demos in this project. All 3 consist in VueJs components showcasing various features:
 data and computed properties, directives, methods, among others.
 
-##Demos
+## Demos
  
 - Today component: Displays current date/time when rendered
 - Compose Tweet component: Showcases a similar form from Twitter's official website.
