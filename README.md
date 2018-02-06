@@ -10,7 +10,13 @@ data and computed properties, directives, methods, among others.
  
 - Today component: Displays current date/time when rendered
 - Compose Tweet component: Showcases a similar form from Twitter's official website.
+
+![Compose Tweet](demos/compose-tweet.gif)
+
 - Star Wars Characters component: lists some of the movie characters and enables filtering.
+
+![Star Wars Characters](demos/star-wars-characters.gif)
+
 
 ## Build Setup
 
